@@ -1,0 +1,134 @@
+p { 
+color:#333333;
+	 
+
+
+
+}
+
+body { 
+background-color: white
+padding: 0;
+margin: 0;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+header ul {
+	display: block;
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	    height: 40px;
+    padding-top: 20px;
+}
+
+header li {
+	display: inline-block;
+	width: 33%;
+}
+
+.alert{
+font-size: 40px;
+text-align: center;
+}
+h1{
+text-align:center;
+}
+
+.diamond {
+	font-size: 22px;
+	vertical-align: middle;
+	margin: 0 5px;
+}
+
+nav {
+text-align:center;
+font-size: 40px;
+}
+
+#logo {
+color: black;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0 ;
+    padding: 0;
+    overflow: hidden;
+width:100%;
+	
+}
+
+li {
+float:left;
+}
+
+li a {
+    display: block;
+    color: 000000;
+    text-align: center;
+    text-decoration: none;
+	
+}
+
+li a:hover {
+    color: #ccc;
+}
+header{
+	border-bottom: solid 1px #ccc;
+}
+
+.image-container {
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 25px;
+}	
+
+.image-container > div	 {
+	margin-bottom: 12px;
+
+}
+
+.image-container img {
+	margin-right: 5px;
+	border:solid 1px #ccc;.
+}
+.shop{
+float:right;
+margin-right:160px;
+
+}
+.shop:hover {
+    position:relative;
+    top:-2px;
+    left:-3px;
+    width:500px;
+    height:30;
+	width:30;
+    display:block;
+    z-index:999;
+}
+.image-container1 {
+	width: 85%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 25px;
+	
+}
+.image-container1 img {
+	margin-right: 15px;
+	border:solid 1px #ccc;.
+}
+.text-container {
+	width: 85%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 25px;
+	
+}
+td{
+text-align:center;
+}
